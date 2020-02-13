@@ -1,3 +1,19 @@
+Mi titulo
+======
+
+Mi frase tiene palabras en **negrita** y en *cursiva*
+
+
+> Mi cita
+
+
+Poner una lista
+
+
+1. Opcion 1
+2. Opcion 2
+
+
 .. toctree::
    funcional/basico/comunicacion-interna
    funcional/basico/acciones-planificadas
